@@ -46,7 +46,7 @@ Comprehensive overview of employee attrition trends across various dimensions su
 - Interpretation: Generated actionable insights and recommendations for HR strategy.
 
 ## Dashboard
-![Snapshot_Dashboard](https://github.com/user-attachments/assets/b250b834-a100-4721-a614-a4fe80e0aff3)
+![Snapshot_Dashboard](https://github.com/mrunaliurkudkar/HR-Data-Analysis/blob/main/Screenshot%20(282).png)
 
 ## Key Insights
 
