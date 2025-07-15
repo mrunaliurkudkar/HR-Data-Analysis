@@ -31,7 +31,7 @@ Comprehensive overview of employee attrition trends across various dimensions su
 
 - Job Satisfaction Rating
 
-- Dashboard Interaction <a href="https://github.com/Amit-KVerma/HR_Analytics_Dashboard/blob/main/Snapshot_Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/mrunaliurkudkar/HR-Data-Analysis/blob/main/dashboard.xlsx">View Dashboard</a>
 
 ## Process Overview
 
