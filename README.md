@@ -15,7 +15,7 @@ Comprehensive overview of employee attrition trends across various dimensions su
 - To support management in making informed workforce decisions.
 
 ## Dataset Used
-- <a href="">Hr data</a>
+- <a href="https://github.com/mrunaliurkudkar/HR-Data-Analysis/blob/main/HR_DATA.xlsx">Hr data</a>
 
 ## Key Performance Indicators (KPIs)
 
